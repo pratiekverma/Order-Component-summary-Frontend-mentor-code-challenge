@@ -1,1 +1,1 @@
-# Oder-Component-summary-Frontend-mentor-code-challenge
+# Order-Component-summary-Frontend-mentor-code-challenge
